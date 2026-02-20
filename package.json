@@ -1,6 +1,6 @@
 {
-  "name": "vite-plugin-adsense",
-  "version": "1.2.0",
+  "name": "vitepress-plugin-adsense",
+  "version": "0.0.1",
   "description": "Insert Google AdSense script to `index.html` and create `ads.txt` file",
   "keywords": [
     "node",
@@ -10,9 +10,9 @@
     "adsense",
     "advertisement"
   ],
-  "homepage": "https://github.com/guoyunhe/vite-plugin-adsense#readme",
+  "homepage": "https://src.isharkfly.com/iSharkFly-Open/vitepress-plugin-adsense/src/branch/main/README.md",
   "bugs": {
-    "url": "https://github.com/guoyunhe/vite-plugin-adsense/issues"
+    "url": "https://src.isharkfly.com/iSharkFly-Open/vitepress-plugin-adsense/issues"
   },
   "repository": {
     "type": "git",
